@@ -40,5 +40,5 @@ Axle与许多内部和外部服务提供商和消费者都是服务关系的一�
 
 这些只是Axle具有的服务关系的几个示例。 整个组织还有很多。下面这张图展示了在Axle业务生态中体系出来的服务关系：
 
-
+![](https://github.com/jiangxianlou/ITIL4/blob/master/Flash%20Card%20for%20ITIL4/service%20relationship.jpg?raw=ture)
 
